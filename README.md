@@ -1,4 +1,5 @@
 # Console-Blackjack
+#PLEASE VIEW THIS FILE IN ITS RAW FORMAT.
 A Java application that allows you to play Blackjack within the console with real custom deck simulation.  
 Full in game features, programmed within 5 days. Slight debugging required on splitting cards and more features still to be added..
 Here is a full sample run of the program:
